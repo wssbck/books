@@ -1,3 +1,3 @@
 ### Books
 
-Code samples, excercises and experimens written while reading books on programming, mathematics, data analysis and the like.
+Code samples, excercises and experiments written while reading books on computer science, mathematics, data analysis and the like.
