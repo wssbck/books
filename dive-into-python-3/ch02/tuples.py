@@ -39,3 +39,8 @@ print(z)
 # (x, y, z) = v
 # w = (2,2)
 # (x, y, z) = w
+
+# An interesting example with range()
+(MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY) = range(7)
+print( MONDAY   )
+print( SATURDAY )
