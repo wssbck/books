@@ -4,7 +4,5 @@ try:
 except ImportError:
   chardet = None
 
-print(chardet)
-
 # raising an error
 raise ValueError('some value error')

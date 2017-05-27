@@ -17,15 +17,15 @@ def is_it_true(anything):
 	else:
 		print("no, it's false")
 
-is_it_true( a_tuple )
-is_it_true( () )
-is_it_true( (False,) )
+is_it_true(a_tuple)
+is_it_true(())
+is_it_true((False,))
 
 # Warning! Parentheses with one element do not constitute a tuple.
 # Python just assumes that it is an extra pair of parentheses.
-print( type((False)) )
+print(type((False)))
 # A coma is needed. This seems silly at first.
-print( type((False,)) )
+print(type((False,)))
 
 # Using tuples for multple assignment
 v = ('a', 2, True)

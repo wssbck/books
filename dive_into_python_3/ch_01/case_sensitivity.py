@@ -2,4 +2,6 @@
 
 xyz = 1
 print(xyz)
+
+# not found
 print(XYZ)

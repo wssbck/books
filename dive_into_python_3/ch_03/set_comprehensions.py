@@ -1,3 +1,4 @@
+# initialize a set
 a_set = set(range(5))
 
 # generate new set using set comprehension

@@ -1,6 +1,7 @@
+# initialize a list
 a_list = [1, -1, 2]
 
-# generate a dictionary using list complehension
+# generate a dictionary using list comprehension
 a_dict = { v:abs(v) for v in a_list }
 
 print(a_list)
