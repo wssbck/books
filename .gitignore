@@ -1,1 +1,9 @@
+# Python
 __pycache__
+
+
+# Scala
+*.class
+*.log
+*.jar
+target
